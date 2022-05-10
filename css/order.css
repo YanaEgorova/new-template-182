@@ -29,18 +29,12 @@
     background-image: url('../img/icons/discover.png');
 }
 .orders__btn {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
+    color: var(--main-text-color);
+    border-color: var(--main-text-color);
 }
-.orders__btn svg {
-    fill: var(--sub-text-color);
-    width: 2rem;
-    margin-right: 2rem;
-    transition: all 0.3s ease-in-out;
-}
+
 
 .orders__table {
     width: 100%;

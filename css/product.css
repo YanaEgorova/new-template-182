@@ -120,6 +120,8 @@
     display: block;
     width: 100%;
     margin-bottom: 3rem;
+    color: var(--main-text-color);
+    border-color: var(--main-text-color);
 }
 .prod__text {
     margin-bottom: 2rem;
